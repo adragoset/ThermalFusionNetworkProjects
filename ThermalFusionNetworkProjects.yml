@@ -121,6 +121,7 @@ dependencies:
     - grpcio==1.44.0
     - h5py==3.6.0
     - keras==2.8.0
+    - keras-applications==1.0.8
     - keras-preprocessing==1.1.2
     - libclang==13.0.0
     - markdown==3.3.6
